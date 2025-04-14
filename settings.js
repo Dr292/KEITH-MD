@@ -1,9 +1,9 @@
 /*I wrote a script to automate my job. Now I just sit back and watch Netflix while it runs.*/
 
-const session = process.env.SESSION || '';
+const session = process.env.SESSION || 'KEITH;;;H4sIAAAAAAAAA61V2W6rSBD9l361c8O+WIo07MYEG+MtzmgeMDQYgwF3N2B85X8fYSdKpLtlpOGp1XRVnao6p+o7KMoUQwd2YPQdVChtAgL7I+kqCEZAreMYIjAEUUACMAILm94QpUVLi8ylmj+Q6TZxOlWy9hya76hDFOsOaq3SzcMncB2Cqt7lafgbh7Qr+m5FqFfjZIRHbcYSS5d9sdQx5CIHCx7erJPHxpvR9hO49h6DFKVFYlR7eIQoyB3YeUGKvgjfsF9Wwm4ntd0K+0Xs2Kb/TK80y9XkVkp2cynOX5zDgivsr8F/HFsvy+RirpUTazfm8ZXNBF+WKCO8NKeUXz/PkgwzDaEYfIeP06SAkR3BgqSk+3LdLWcr49e8dcVNIpgqtlhpfPG4FpXmyXh0wpUPO76wqXblfg34TJPHYXberHYGgyZGqj+jCRPH87XgZYNVs26rwpE3uusb3GfgHnrnSvZf6p7NlO1mqZsiw9RKp7HrznbtsbnbBVtih4eDYbFrL3uh7Yz7Im2K1jH3s9NksqzJNODpyttavOqjl/aZC1Jxims2GZ+Mhbb6gB+QGv0O5XkSJrQm2EKzxOdHqRXyTaUkWqUu2MM0cmdTVdvki/NsopzrYtbkxuKgl+UgP0X7Ka6K1dgmMp75e1t1HmXOQz4lbpL50y2jDHZ2BEb0dQgQTFJMUEDSsrjdsewQBFGzgCGC5FZekE9eVo1dD2gLyWUaLRWh3oeNOKDyxU4UJoE5jozA4RJBSJ7AEFSoDCHGMBqnmJSocyHGQQIxGP1961SfNILHksBJGoERYHhO5ARKYila/At/a/cBwUFVfSsgAUMQo/LoQjAiqIZDcDMQTJnXVcpQddmkTFMUDJ4WFUmlaYkxBE7uUzzegy7TI8QkOFZgRIscJ3CCyFDX4f+Dg5JVRTJo06R4hadFWZN1maMp0eQ0mjNk6Q84mP8LhyoZPGXqCiuqmqKqEqVqiiCxmiRJNG+Yf8DBcdd/hqCAZ3LXU88Clh6COEWYrIq6yssgehfb+88gDMu6IIuuCLX+ABEYfbqGhKRFgvvM6iJA4T5toNbnAUZxkGN4HYIINmkIe38AScspizJn/vAQFy+JIBzdhE16Ju3L4v5EilghEkP+QQpo8YETOfZBkmXpQYQSEzN9qTge9OW4j7Le5pfKgvziGHr+aozR/mAr/jyeqFY+a+e2dFPHXRIQwei9yrsgzOpqWWaw+N0UayLNT2fd9OK6XD4YsFtb86kiLejwk9+71MDo+8f60Mro5o/xJVHwt6DvVh/nBzaMOP5HQhRB/xp8+9bHeGtAbx1BEqQ5BiOgzZzNOQh1w2ky+VmyLHWeKFqigI+GvQ+ku+AHXNmgnatsOuLKmdUxy90rs3Eckc0mjiEW7ukylj0nTNns6SdOwAhsBQpV03Xnao24k/eHM69ZJ84T6Gm+Zg9S5iaKut5XzByPi+mJMZ1OuRCYkmIyaW3qHDHtQEcb5+if1zpkXl1mS1719qmPdifO52DjxKoScZUaoRs2Bv2y2URKy4eNXi/FEGVTh98zllN5p9oranpCEV7O2e6xVVgfYWNaDryFbdjbw8ITmlUZtnA6dZPkPipvozp/W5Hp2xC70yxO4W3jvDXgj436YDx1HX7y8bbDfsEqNa6dZ4G5KCZGS+9VxSRjmChP01rmtcV+xl8cfH5cdoVNeHDtpVzlAYlLdAQjEBQRKtMIDEEeYKJ8iPYnc4BmhuDYKVW1IAF51zpQ+s9LWnD9F9A/VIieCQAA';
 
-const prefix = process.env.PREFIX || '';
-const mycode = process.env.CODE || "254";
+const prefix = process.env.PREFIX || '#';
+const mycode = process.env.CODE || "254746083017";
 const author = process.env.OWNER_NAME || 'Keith';
 const packname = process.env.PACKNAME || 'keith';
 const dev = process.env.OWNER_NUMBER || '254748387615';
